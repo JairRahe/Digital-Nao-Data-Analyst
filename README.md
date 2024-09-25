@@ -46,7 +46,7 @@ Este repositorio contiene los scripts necesarios para realizar un análisis de l
 > [!NOTE]
 > Es importante que organices en una carpeta todos los archivos descargados para facilitar el procasimiento de los mismos.
    
-3.  **Descargar el repositorio:**
+3.  **Descargar el repositorio**
    
 4.  **Ejecutar los scripts**
    
