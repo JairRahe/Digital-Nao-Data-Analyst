@@ -5,7 +5,8 @@ Este repositorio contiene los scripts necesarios para realizar un análisis de l
 ## Estructura del Repositorio
 
 * **scripts:** Contiene los scripts de Python para el procesamiento y análisis de datos.
-
+* **results:** Contiene los resultados de los análisis en formato CSV y PNG.
+  
 ## Descripción de los Scripts
 
 * **1_1_oilst_processed.py:** 
