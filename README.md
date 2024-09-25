@@ -48,9 +48,7 @@ Este repositorio contiene los scripts necesarios para realizar un análisis de l
    
 3.  **Descargar el repositorio:**
    
-   https://tu_repositorio.git
-   
-5.  **Ejecutar los scripts**
+4.  **Ejecutar los scripts**
    
    scripts/1_1_oilst_processed.py
    
