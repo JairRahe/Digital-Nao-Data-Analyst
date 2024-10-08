@@ -7,7 +7,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #Lectura de datos.
-DATA_PATH="/Users/Pedro Ramirez/OneDrive - Hospitales MAC/Documents/Sprint1/data"
+DATA_PATH=#"Coloca la ruta de acceso dónde colocaste las fuentes de datos"
 FILE_CONSOLIDATED_DATA = 'oilst_processed.csv'
 
 #Conversión de fechas.
