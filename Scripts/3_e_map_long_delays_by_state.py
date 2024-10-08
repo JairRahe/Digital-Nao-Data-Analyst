@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 #Lectura de datos.
-DATA_PATH="/Users/Pedro Ramirez/OneDrive - Hospitales MAC/Documents/Sprint1/data"
+DATA_PATH=#"Coloca la ruta de acceso dónde colocaste las fuentes de datos"
 FILE_CONSOLIDATED_DATA = 'oilst_processed.csv'
 FILE_GEODATA = 'brasil_geodata.json'
 FILE_REGIONS = 'brasil_regions.csv'
